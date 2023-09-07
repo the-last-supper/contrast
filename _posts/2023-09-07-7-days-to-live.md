@@ -23,7 +23,7 @@ But none of this matters.
 
 Anymore.
 
-![7daystolive](/assets/imgs/IMG_5432.jpg)
+![7daystolive](/assets/IMG_5432.jpg)
 
 
 It feels like I am overriding my soul.
