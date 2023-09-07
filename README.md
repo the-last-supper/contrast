@@ -4,15 +4,9 @@ permalink: "/about/"
 layout: page
 ---
 
-### Who?
-
 I am an anonymous author.
 
-### What?
-
 I write my last words of the last 7 days to live.
-
-### Why?
 
 To contribute my experience to the greater experience of Source.
 
