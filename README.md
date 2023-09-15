@@ -6,10 +6,11 @@ layout: page
 
 Author: Van
 
-Twitter: [https://twitter.com/vtasst](https://twitter.com/vtasst) - for legal and press announcements
+X - [https://twitter.com/vtasst](https://twitter.com/vtasst) - for legal and press announcements
 
-Youtube: [https://www.instagram.com/vtasst/](https://www.instagram.com/vtasst/) - for personal-to-public communication
+YT - [https://www.youtube.com/@vtasst](https://www.youtube.com/@vtasst) - for personal-to-public communication
 
-Instagram: [https://www.instagram.com/vtasst/](https://www.youtube.com/@vtasst) - for private communication only, follow requests will not be accepted.
- 
+IG - [https://www.instagram.com/vtasst/](https://www.youtube.com/@vtasst) - for private communication only, follow requests will not be accepted.
+
+
 For press: [press@7daystolive.xyz](mailto:press@7daystolive.xyz)
