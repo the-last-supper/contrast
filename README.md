@@ -4,12 +4,10 @@ permalink: "/about/"
 layout: page
 ---
 
-I am an anonymous author.
+Author: Van
 
-I write my last words of the last 7 days to live.
-
-Your donation is a vote.
-
-Thank you.
-
-[https://tallycoin.app/@7daystolive/7daystolive-KtntZqeF/](https://tallycoin.app/@7daystolive/7daystolive-KtntZqeF/)
+Twitter: [https://www.instagram.com/vtasst/](https://www.instagram.com/vtasst/) - for legal and press announcements
+Youtube: [https://www.instagram.com/vtasst/](https://www.instagram.com/vtasst/) - for personal-to-public communication
+Instagram: [https://www.instagram.com/vtasst/](https://www.instagram.com/vtasst/) - for private communication, unknown follow requests will not be accepted.
+ 
+For press: [press@7daystolive.xyz](mailto:press@7daystolive.xyz)
