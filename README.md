@@ -4,9 +4,7 @@ permalink: "/about/"
 layout: page
 ---
 
-This domain is exclusively owned by Van, known by the nickname *Van-tastic* and alias *@vtasst*.
-
-The following accounts are @vtasst's official channels:
+This domain is exclusively owned by Van, known by name **Van-tastic** and alias **@vtasst** with official channels:
 
 X - [https://twitter.com/vtasst](https://twitter.com/vtasst) - for official and legal announcements.
 
