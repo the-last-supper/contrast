@@ -4,16 +4,16 @@ permalink: "/about/"
 layout: page
 ---
 
-This domain is owned by Van, known by name **Van-tastic** and alias **@vtasst** with official channels:
+You are reading personal notes, belonging to **Van-tastic** with alias **vtasst**, with official channels:
 
-X - [https://twitter.com/vtasst](https://twitter.com/vtasst) - for official and legal announcements.
+X - [https://twitter.com/vtasst](https://twitter.com/vtasst) - for public and legal comments.
 
 YT - [https://www.youtube.com/@vtasst](https://www.youtube.com/@vtasst) - for personal-to-public communication.
 
-IG - [https://www.instagram.com/vtasst/](https://www.instagram.com/vtasst/) - for private communication only.
+IG - [https://www.instagram.com/vtasst/](https://www.instagram.com/vtasst/) - for private communication.
 
+Telegram Group - [https://t.me/vtasstgroup](https://t.me/vtasstgroup) 
 
 ----
-For press: [press@7daystolive.xyz](mailto:press@7daystolive.xyz)
-
+Email: [press@7daystolive.xyz](mailto:press@7daystolive.xyz)
 
