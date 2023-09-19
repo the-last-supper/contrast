@@ -1,5 +1,5 @@
 ---
-title:  "Your life has just began!"
+title:  "Your life has just begun!"
 mathjax: true
 layout: post
 categories: media
