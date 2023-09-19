@@ -1,5 +1,5 @@
 ---
-title:  "There was a breakthrough!"
+title:  "Your life has just began!"
 mathjax: true
 layout: post
 categories: media
