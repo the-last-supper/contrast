@@ -7,6 +7,8 @@ categories: media
 
 ![7daystolive](/assets/IMG_5432.jpg)
 
+
+
 7 days to live. 168 hours. It is a really long time.
 
 I've been in pain.
