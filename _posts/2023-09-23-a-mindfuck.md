@@ -26,4 +26,4 @@ I had to learn this the hard way. I’m no saint, no fairy, not from another rea
 
 Now that all delusions vanished, for the rest of my incarnation, perhaps in my next, hereby I present a note to self: Mind-fuck.
 
-![Mind-fuck](/assets/IMG_5545.png)
+![Mind-fuck](/assets/IMG-5545.png)
